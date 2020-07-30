@@ -5,13 +5,13 @@
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
-C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\untitled.ipynb
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\Untitled.ipynb
 C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\MallorcaTop10LocationsTrends.ipynb
 
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\.ipynb_checkpoints
 
 # IPython
 profile_default/
