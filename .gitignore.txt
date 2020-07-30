@@ -7,15 +7,11 @@
 # website: http://jupyter.org/
 C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\untitled.ipynb
 C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\MallorcaTop10LocationsTrends.ipynb
-C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\code\BalearicIslandsKeywordScrapping.ipynb
-C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\code\MallorcaTop10LocationsTrends.ipynb
-C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\code\SeleniumBalearicIslandsTrends.ipynb
-C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\code\SemRushKeyWordExtractor.ipynb
-C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\code\Untitled.ipynb
 
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project
 
 # IPython
 profile_default/
@@ -26,8 +22,6 @@ ipython_config.py
 
 ### MicrosoftOffice ###
 *.tmp
-C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\data\multiTimeline (2).csv
-C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\data\test.csv
 
 # Word temporary
 ~$*.doc*
@@ -37,7 +31,7 @@ Backup of *.doc*
 
 # Excel temporary
 ~$*.xls*
-C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\data\BalearicIslandsDatamart.xlsx
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\data\MadridDatamart.xlsx
 
 # Excel Backup File
 *.xlk
@@ -61,7 +55,6 @@ ehthumbs_vista.db
 # Folder config file [Dd]esktop.ini
 C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\data\TourismArrivals
 C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\data\KeyWords
-C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\data\.ipynb_checkpoints
 
 
 # Recycle Bin used on file shares
