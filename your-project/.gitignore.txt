@@ -5,6 +5,13 @@
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\untitled.ipynb
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\MallorcaTop10LocationsTrends.ipynb
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\code\BalearicIslandsKeywordScrapping.ipynb
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\code\MallorcaTop10LocationsTrends.ipynb
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\code\SeleniumBalearicIslandsTrends.ipynb
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\code\SemRushKeyWordExtractor.ipynb
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\code\Untitled.ipynb
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
@@ -18,7 +25,9 @@ ipython_config.py
 
 ### MicrosoftOffice ###
 *.tmp
-
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\data\BalearicIslandsDatamart.xlsx
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\data\multiTimeline (2).csv
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\data\test.csv
 # Word temporary
 ~$*.doc*
 
@@ -52,7 +61,7 @@ ehthumbs_vista.db
 C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\data\KeyWords
 C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\data\TourismArrivals
 C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\.ipynb_checkpoints
-
+C:\Users\ppaau\Desktop\Academic\IronHack\Projects\Project-Week-5-Your-Own-Project\your-project\code\.ipynb_checkpoints
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
