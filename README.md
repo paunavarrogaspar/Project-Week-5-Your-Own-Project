@@ -1,9 +1,10 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Search. Buy. Travel.
+*[Pau Navarro]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Barcelona. June 2020]*
+
 
 ## Content
 - [Project Description](#project-description)
@@ -13,26 +14,35 @@
 - [Organization](#organization)
 - [Links](#links)
 
+
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+For this project I have tried to figure out whether there is a relation between the searches related to a place and its tourism influxes.
+
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+The main hypothesis was that Google Trends data can be an accurate predictor of tourism influx to a certain place.
+
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+To elaborate this project, I used the datasets with the search trend for every word I considered significant and for every country that I had the data and then I used the tourism datasets provided by the governments of Madrid and the Balearic Ilands. After I obtained the data, I put it all together into two datamarts: one for each location. The datamarts are the documents that can be found on the data folder of the repository.
+
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+First, I downloaded the data for the search trends and the tourism influx. Afterwards, I cleaned all the documents and merged them into two datamarts. Later, I analyzed the correlation between all the variables of the two locations. To finish, I plotted the information and extracted my conclusions.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
-
+My organization was based on following three steps:
+ 1) Brainstorming for a topic.
+ 2) Settling on one topic.
+ 3) Choosing the cases I wanted to focus on.
+ 4) Listing my data needs.
+ 5) Obtaining said data.
+ 6) Analyzing it.
+ 7) Writing the paper and preparing the presentation.
+ 
+ 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
+The following are some useful links:
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/paunavarrogaspar/Project-Week-5-Your-Own-Project/)  
+[Slides](https://slides.com/paunavarro/google-searchestourism-influx/)  
